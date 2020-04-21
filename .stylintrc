@@ -1,0 +1,33 @@
+{
+	"brackets": "never",
+	"colons": "never",
+	"commaSpace": "always",
+	"commentSpace": "always",
+	"depthLimit": 2,
+	"duplicates": true,
+	"efficient": "always",
+	"exclude": [
+		"node_modules/**/*"
+	],
+	"globalDupe": true,
+	"groupOutputByFile": true,
+	"indentPref": false,
+	"leadingZero": "always",
+	"namingConvention": "lowercase-dash",
+	"namingConventionStrict": true,
+	"noImportant": true,
+	"parenSpace": "never",
+	"prefixVarsWithDollar": "always",
+	"quotePref": "single",
+	"semicolons": "never",
+	"sortOrder": [
+		"margin",
+		"padding",
+		"float",
+		"position"
+	],
+	"stackedProperties": "never",
+	"trailingWhitespace": "never",
+	"valid": true,
+	"zeroUnits": "always"
+}
